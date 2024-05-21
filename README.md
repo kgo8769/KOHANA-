@@ -82,7 +82,7 @@
 
 <section id="gallery" class="gallery">
     <h2>Фотографії робіт</h2>
-    <img src="photo1.jpg" alt="<Брови">
+    <img src="[photo1.jpg](https://www.icloud.com/photos/#/i,pz,49F535F0-7F87-4CCE-BB87-09C434C22F73,1352/)" alt="<Брови">
     <img src="photo2.jpg" alt="Губи">
     <img src="photo3.jpg" alt="Очі">
 </section>
